@@ -20,7 +20,7 @@ Features
 
 Installation
 =============
-The package can be installed directly from CRAN and the development version from GitHub:
+The package can be installed directly from CRAN:
 
 # Stable version
 install.packages("iml")
